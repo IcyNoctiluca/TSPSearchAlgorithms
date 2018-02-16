@@ -1,2 +1,2 @@
 # TSPSearchAlgorithms
-ACO and Genetic algorithms to solve the TSP (uni coursework)
+ACO and Genetic algorithms to solve the Travelling Salesman Problem
